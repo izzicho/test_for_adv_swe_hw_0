@@ -2,6 +2,13 @@ from socket import *
 import sys
 import requests
 
+# THESE LINES ARE RANDOM COMMENTS THAT ARE JUST 
+# FOR ME TO LITERALLY JUST
+# EDIT THIS "NON-TRIVIAL" CODE
+# IN SOME WAY FOR
+# TESTING TO SEE IF I CAN USE SOURCE CTRL VIA GITHUB
+# STUFF, LOL, HELLO ASWE HW0!
+
 if len(sys.argv) <= 1:
 	print('Usage : "python ProxyServer.py server_ip"\n[server_ip : It is the IP Address Of Proxy Server]')
 	sys.exit(2)
